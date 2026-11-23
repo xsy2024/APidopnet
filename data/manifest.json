@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-11-22",
+  "scope": "Eight MaHPIC expression workbooks from four GEO series.",
+  "verification": "SHA-256 values of the included workbooks.",
+  "data_policy": "https://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html",
+  "data_citation_doi": "10.1038/s41597-022-01755-y",
+  "files": [
+    {
+      "filename": "GSE103507_E04RM99FGMmCyDaWB_Cynomolgi-Genes-RawCountsReSequence-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE103507",
+      "experiment": "E04R",
+      "organism_role": "parasite",
+      "processing": "raw read counts",
+      "usage": "reference data; not loaded by the current reproduction runner",
+      "bytes": 1094848,
+      "sha256": "13f449c25b13ecd6a6f3e06f408c55fca4a65b6137aa9c6593b9d9f796a1af9a",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103507"
+    },
+    {
+      "filename": "GSE103507_E04RM99FGMmCyDaWB_Mulatta-Genes-DESeq2NormalizedCountsReSequence-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE103507",
+      "experiment": "E04R",
+      "organism_role": "host",
+      "processing": "DESeq2-normalized counts",
+      "usage": "reference data; not loaded by the current reproduction runner",
+      "bytes": 7844874,
+      "sha256": "da0fd30d253123281ef2be8d80d34787143b3cdbc484cbc1081c5289ca91194e",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "NormalizedReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE103507"
+    },
+    {
+      "filename": "GSE104101_E24M99FGMmCyXXWB_Cynomolgi-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104101",
+      "experiment": "E24",
+      "organism_role": "parasite",
+      "processing": "raw read counts",
+      "usage": "reference data; not loaded by the current reproduction runner",
+      "bytes": 467861,
+      "sha256": "730bd20d9b4bdc6f7c48ab25456fd9fed3b8d9d4c8899113d9e84a14e0ef7dc0",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104101"
+    },
+    {
+      "filename": "GSE104101_E24M99FGMmCyXXWB_Mulatta-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104101",
+      "experiment": "E24",
+      "organism_role": "host",
+      "processing": "raw read counts",
+      "usage": "reference data; not loaded by the current reproduction runner",
+      "bytes": 1889124,
+      "sha256": "d1d2a6f614de700690b34d30f54de82a1002c13be1d614f1b31e06101166afba",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104101"
+    },
+    {
+      "filename": "GSE104223_E23RM99FGMmCyDaWB_Cynomolgi-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104223",
+      "experiment": "E23R",
+      "organism_role": "parasite",
+      "processing": "raw read counts",
+      "usage": "primary E23 reproduction",
+      "bytes": 1444695,
+      "sha256": "9692df129a32c97ce63bb8b6588ab2cb32e65e77ff8b9dc66317b700272a7c42",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104223"
+    },
+    {
+      "filename": "GSE104223_E23RM99FGMmCyDaWB_Mulatta-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104223",
+      "experiment": "E23R",
+      "organism_role": "host",
+      "processing": "raw read counts",
+      "usage": "primary E23 reproduction",
+      "bytes": 5056088,
+      "sha256": "da6e8d34d714cb11d126611d156f23a37d1cf3e080f76d0c2ba00a827a34ee4f",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104223"
+    },
+    {
+      "filename": "GSE104330_E25bM99FGMmCyDaWB_Cynomolgi-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104330",
+      "experiment": "E25",
+      "organism_role": "parasite",
+      "processing": "raw read counts",
+      "usage": "optional E23-to-E25 transfer",
+      "bytes": 828158,
+      "sha256": "126c0e721213145b65bed0461178616795bdf1edc102412c8be88405d8a54f39",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104330"
+    },
+    {
+      "filename": "GSE104330_E25bM99FGMmCyDaWB_Mulatta-Genes-RawCounts-Results_MULTIPL_GEO.xlsx",
+      "accession": "GSE104330",
+      "experiment": "E25",
+      "organism_role": "host",
+      "processing": "raw read counts",
+      "usage": "optional E23-to-E25 transfer",
+      "bytes": 2829271,
+      "sha256": "6fb3cd44df3fc2621f2da86aa4658214a72db938d3d79f0ee8bf45618d90d73c",
+      "sheets": [
+        "Column_Headers_Definitions",
+        "RawReadCounts"
+      ],
+      "source_record": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE104330"
+    }
+  ]
+}

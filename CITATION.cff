@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "FiNN-APidopnetwork MaHPIC E23 gene-panel validation"
+message: "If you use this code, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Xu
+    given-names: Shuyuan
+version: "0.1.0"
+repository-code: "https://github.com/xsy2024/APidopnet"
+abstract: >
+  Reproducibility package for the MaHPIC E23 gene-panel validation experiment
+  accompanying a FiNN/APidopnetwork manuscript.

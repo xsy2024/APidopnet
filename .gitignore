@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+
+# Generated outputs
+results/*
+!results/.gitkeep
+
+# Public GEO spreadsheets listed in data/manifest.json are included.
+
+# Local environments
+.venv/
+venv/
+env/
+

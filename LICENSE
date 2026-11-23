@@ -1,0 +1,26 @@
+Academic Non-Commercial Research and Peer-Review License
+
+Copyright (c) 2026 Shuyuan Xu.
+
+Scope: this license covers the original software in this repository. It does
+not relicense the third-party GEO spreadsheets in data/mahpic_geo/. Their
+provenance and applicable source notices are documented in data/NOTICE.md.
+
+Permission is granted, free of charge, to use, copy, modify, and redistribute
+this software for non-commercial academic research, teaching, and confidential
+peer review, provided that the copyright notice, this license notice, and the
+associated citation information are retained in all copies or substantial
+portions of the software.
+
+The software may not be used for commercial purposes without prior written
+permission from the copyright holder. Commercial purposes include selling,
+licensing, offering as a hosted service, or incorporating the software into a
+commercial product.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
